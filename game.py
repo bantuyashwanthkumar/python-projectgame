@@ -4,6 +4,7 @@
 -1 for humam
 0 for mungisa
 '''
+
 import random
 
 youdict = {"s": 1, "h": -1, "m": 0}
